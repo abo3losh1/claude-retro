@@ -1,0 +1,11 @@
+{
+  "name": "retro",
+  "version": "0.1.0",
+  "description": "Run /retro after a session to turn mistakes and repeated work into small, approved updates to CLAUDE.md, memory and skills.",
+  "author": {
+    "name": "Harith A.",
+    "url": "https://github.com/abo3losh1"
+  },
+  "license": "MIT",
+  "keywords": ["retro", "self-improving", "memory", "skills", "continual-learning"]
+}

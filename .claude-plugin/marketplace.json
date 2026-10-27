@@ -1,0 +1,18 @@
+{
+  "name": "claude-retro",
+  "owner": {
+    "name": "Harith A.",
+    "url": "https://github.com/abo3losh1"
+  },
+  "metadata": {
+    "description": "A self-improving loop for Claude Code: review each session, keep the lessons."
+  },
+  "plugins": [
+    {
+      "name": "retro",
+      "source": "./plugins/retro",
+      "description": "Run /retro after a session to turn mistakes and repeated work into small, approved updates to CLAUDE.md, memory and skills.",
+      "version": "0.1.0"
+    }
+  ]
+}
